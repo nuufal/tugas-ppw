@@ -1,0 +1,10 @@
+:root {
+  --primary: #d77339;
+  --bg: #010101;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  color: white;
+  background-color: var(--bg);
+}
